@@ -8,6 +8,7 @@
 \____/_/  |_/_/ |_| |___/___//____/     /_/  |_/___/   
 *
 ```
+
 - Studied Computer Science for bachelor
 - Won Two times ACME IBM competition (Participate 5 times)
 - Won a gold math medal in high school
@@ -19,6 +20,10 @@
 <h4 align="center">
     <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
 </h4>
+
+
+
+
 
 <!--
 **JARVIS-AI/JARVIS-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
