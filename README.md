@@ -8,6 +8,9 @@
 \____/_/  |_/_/ |_| |___/___//____/     /_/  |_/___/   
 *
 ```
+<p align="center">
+<img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg">
+</p>
 
 - Studied Computer Science for bachelor
 - Won Two times ACME IBM competition (Participate 5 times)
