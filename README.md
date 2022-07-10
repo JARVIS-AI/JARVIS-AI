@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Hi.gif" width="30" style="vertical-align:middle;">, Watashi wa J M</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Hi.gif" width="30" style="vertical-align:middle">, Watashi wa J M</h3>
 <h3 align="center">A passionate, serious game developer, web developer, writer</h3>
 
 <h3 align="center"> 
