@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg">
+       <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg">
 </p>
 
 Can't think of any creativity here so if you found it unpleasent, GOMEN **Arigatō**
@@ -37,12 +37,15 @@ Other things that you might have find them interesting such as:
 5. Various academic projects and scientific problems
 
 <h3 align="center">
-<img src="https://spotify-gh-page.vercel.app/now-playing">
+       <img src="https://spotify-gh-page.vercel.app/now-playing">
 </h3>
 
+<h3 align="center">
+       <img src="https://spotify-github-profile.vercel.app/api/view?uid=jarvis-ai&cover_image=true&theme=default&bar_color=2dff2d"
+</h3>
 
 <h3 align="center">📫 Huh...</br></br>
-    <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
+       <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
 </h3>
 
 <h6 align="center">Gamsahaeyo</h6>
