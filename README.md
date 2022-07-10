@@ -23,7 +23,7 @@ Can't think of any creativity here so if you found it unpleasent, GOMEN **Arigat
 
 ### <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Developer.gif" width="95"> \\___About Me:
 
-- 🏦 I'm a Software Development Engineer and Studied Bachelor and Master Computer Science 
+- 🏦 I'm a Software Engineer (Bachelor [BSc] of Computer Science [CS] - Master [MSc] of Artificial Intelligence & Machine Learning [A.I.])
       <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/gandalf_parrot.gif" width="31" style="vertical-align:middle">
 - 📝 Regulary write technical articles
 - 💻 Using **.js**, **.py**, **.go**, **_**
