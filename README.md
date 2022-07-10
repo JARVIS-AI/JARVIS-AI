@@ -58,3 +58,8 @@ Other things that you might have find them interesting such as:
 <h6 align="center">Gamsahaeyo</h6>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JARVIS-AI&label=Profile%20views&color=0e75b6&style=flat" alt="JARVIS-AI" /> </p>
+
+<h3 align="center">
+       <img src="https://raw.githubusercontent.com/JARVIS-AI/JARVIS-AI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+       <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
+</h3>
