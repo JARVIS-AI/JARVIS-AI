@@ -36,9 +36,10 @@ Other things that you might have find them interesting such as:
 4. Make some games in CLI and GUI
 5. Various academic projects and scientific problems
 
+<!--
 <h3 align="center">
        <img src="https://spotify-gh-page.vercel.app/now-playing">
-</h3>
+</h3>-->
 
 <h3 align="center">
        <img src="https://spotify-github-profile.vercel.app/api/view?uid=jarvis-ai&cover_image=true&theme=default&bar_color=2dff2d"
