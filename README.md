@@ -40,8 +40,8 @@ Other things that you might have find them interesting such as:
 <img src="https://spotify-gh-page.vercel.app/now-playing">
 </h3>
 
-📫 Huh...
-<h4 align="center">
+
+<h4 align="center">📫 Huh...
     <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
 </h4>
 
