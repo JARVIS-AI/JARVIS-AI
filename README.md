@@ -61,5 +61,5 @@ Other things that you might have find them interesting such as:
 
 <h3 align="center">
        <img src="https://raw.githubusercontent.com/JARVIS-AI/JARVIS-AI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-       <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
+       <img src="https://raw.githubusercontent.com/JARVIS-AI/JARVIS-AI/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
 </h3>
