@@ -17,6 +17,8 @@
        <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg">
 </p>
 
+<img src="https://github.com/JARVIS-AI/img-storageprojects/blob/master/Profile-GIF/steam_div.png">
+
 Can't think of any creativity here so if you found it unpleasent, GOMEN **Arigatō**
 
 - 🏦 I'm a Software Development Engineer and Studied Bachelor and Master Computer Science 
@@ -36,6 +38,8 @@ Other things that you might have find them interesting such as:
 4. Make some games in CLI and GUI
 5. Various academic projects and scientific problems
 
+<img src="https://github.com/JARVIS-AI/img-storageprojects/blob/master/Profile-GIF/steam_div.png">
+
 <!--
 <h3 align="center">
        <img src="https://spotify-gh-page.vercel.app/now-playing">
@@ -44,6 +48,8 @@ Other things that you might have find them interesting such as:
 <h3 align="center">
        <img src="https://spotify-github-profile.vercel.app/api/view?uid=jarvis-ai&cover_image=true&theme=default&bar_color=2dff2d"
 </h3>
+
+<img src="https://github.com/JARVIS-AI/img-storageprojects/blob/master/Profile-GIF/steam_div.png">
 
 <h3 align="center">📫 Huh...</br></br>
        <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
