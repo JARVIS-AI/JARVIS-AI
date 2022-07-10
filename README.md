@@ -41,7 +41,7 @@ Other things that you might have find them interesting such as:
 </h3>
 
 
-<h4 align="center">📫 Huh...
+<h4 align="center">📫 Huh...</br></br>
     <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
 </h4>
 
