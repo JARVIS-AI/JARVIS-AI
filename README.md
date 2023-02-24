@@ -48,7 +48,7 @@ Other things that you might have find them interesting such as:
 </h3>-->
 
 <h3 align="center">
-       <img src="https://spotify-github-profile.vercel.app/api/view?uid=jarvis-ai&cover_image=true&theme=default&bar_color=2dff2d" style="filter: drop-shadow(0px 22px 25px #222222a6);">
+       <img src="https://spotify-github-profile.vercel.app/api/view?uid=jarvis-ai&cover_image=true&theme=default&bar_color=2dff2d" style="filter: drop-shadow(0px -10px 12px #222222a6);">
 </h3>
 
 <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/steam_div.png">
