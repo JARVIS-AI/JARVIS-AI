@@ -39,12 +39,12 @@
 ### ⚙️  GitHub Analytics
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohadeseh-Atyabi&theme=dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JARVIS-AI&theme=dark" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="[https://git.io/streak-stats](https://github.com/anuraghazra/github-readme-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohadeseh-Atyabi&layout=compact&theme=dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARVIS-AI&layout=compact&theme=dark&show_icons=true" />
   </a>
 </div>
