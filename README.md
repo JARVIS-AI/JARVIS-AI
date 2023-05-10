@@ -1,23 +1,33 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Hi.gif" width="30" style="vertical-align:middle">, Watashi wa J M</h3>
 <h3 align="center">A passionate, serious game developer, web developer, writer</h3>
 
-<h3 align="center"> 
+<div align="center"> 
 
-```ascii
+░░░░░██╗░█████╗░██████╗░██╗░░░██╗██╗███████╗
+░░░░░██║██╔══██╗██╔══██╗██║░░░██║██║██╔════╝
+░░░░░██║███████║██████╔╝██║░░░██║██║███████╗
+██░░░██║██╔══██║██╔══██╗╚██╗░██╔╝██║╚════██║
+╚█████╔╝██║░░██║██║░░██║░╚████╔╝░██║███████║
+░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░╚═══╝░░╚═╝╚══════╝
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+</div>
+</hr>
+
+<!-- ```ascii
        ______   ____ _    ___________       ___    ____
       / /   |  / __ \ |  / /  _/ ___/      /   |  /  _/
  __  / / /| | / /_/ / | / // / \__ \______/ /| |  / /  
 / /_/ / ___ |/ _, _/| |/ // / ___/ /_____/ ___ |_/ /   
 \____/_/  |_/_/ |_| |___/___//____/     /_/  |_/___/   
 
-```
-</h3>
+```--->
 
 <p align="center">
        <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/doodle.svg">
 </p>
-
-<img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/steam_div.png">
+<!-- 
+<img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/steam_div.png"> -->
 
 Can't think of any creativity here so if you found it unpleasent, GOMEN **Arigatō**
 
