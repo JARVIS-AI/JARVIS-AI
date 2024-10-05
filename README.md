@@ -72,6 +72,12 @@ Other things that you might have found them interesting such as:
        <img src="https://raw.githubusercontent.com/JARVIS-AI/JARVIS-AI/output/github-contribution-grid-snake.svg#gh-light-mode-only">
 </h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 </br></br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JARVIS-AI&label=Profile%20views&color=0e75b6&style=flat" alt="JARVIS-AI" /> </p>
 
