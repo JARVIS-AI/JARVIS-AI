@@ -11,12 +11,11 @@
 ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░╚═══╝░░╚═╝╚══════╝
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-<be />
+<br />
 
 <こんにちは、私は Jarvis です。新しいことを学ぶことに熱心な情熱的な開発者です。>
 
 </div>
-</hr>
 
 <!-- ```ascii
        ______   ____ _    ___________       ___    ____
@@ -34,7 +33,7 @@
 <!-- 
 <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/steam_div.png"> -->
 
-
+<br />
 
 ### <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Developer.gif" width="95"> \\___About Me:
 
@@ -67,7 +66,7 @@ Other things that you might have found them interesting such as:
        <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
 </h3>
 
-<h6 align="center">Gamsahaeyo</h6>
+<br />
 
 <h3 align="center">
        <picture>
@@ -77,8 +76,9 @@ Other things that you might have found them interesting such as:
        </picture>
 </h3>
 
+<br />
+<br />
 
-</br></br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JARVIS-AI&label=Profile%20views&color=0e75b6&style=flat" alt="JARVIS-AI" /> </p>
 
 <details align="center">
